@@ -1,0 +1,8 @@
+G:\Hacking\KH\KH2FM\tools\KH2FM_TEXT_EDITOR\obj\Debug\KH2FM_TEXT_EDITOR.csprojResolveAssemblyReference.cache
+G:\Hacking\KH\KH2FM\tools\KH2FM_TEXT_EDITOR\obj\Debug\KH2FM_TEXT_EDITOR.MainForm.resources
+G:\Hacking\KH\KH2FM\tools\KH2FM_TEXT_EDITOR\obj\Debug\KH2FM_TEXT_EDITOR.csproj.GenerateResource.Cache
+G:\Hacking\KH\KH2FM\tools\KH2FM_TEXT_EDITOR\bin\Debug\KH2FM_TEXT_EDITOR.exe.config
+G:\Hacking\KH\KH2FM\tools\KH2FM_TEXT_EDITOR\bin\Debug\KH2FM_TEXT_EDITOR.exe
+G:\Hacking\KH\KH2FM\tools\KH2FM_TEXT_EDITOR\bin\Debug\KH2FM_TEXT_EDITOR.pdb
+G:\Hacking\KH\KH2FM\tools\KH2FM_TEXT_EDITOR\obj\Debug\KH2FM_TEXT_EDITOR.exe
+G:\Hacking\KH\KH2FM\tools\KH2FM_TEXT_EDITOR\obj\Debug\KH2FM_TEXT_EDITOR.pdb
